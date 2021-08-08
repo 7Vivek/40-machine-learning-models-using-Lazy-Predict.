@@ -1,4 +1,4 @@
-# 40-machine-learning-models-using-Lazy-Predict.
+# 40-machine-learning-models-using-Lazy-Predict(Classification and Regression).
 ## Lazy Predict – Best Suitable Model.
 
 ### What is Lazy Predict?
